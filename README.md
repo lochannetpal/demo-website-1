@@ -20,7 +20,7 @@
     <p>This is a demo page to test cross-domain tracking.</p>
 
     <!-- Cross-domain link -->
-    <a href="[https://your-second-domain.github.io](https://lochannetpal.github.io/demo-website-2/)" id="crossDomainLink">Go to Demo Website 2</a>
+    <a href="https://lochannetpal.github.io/demo-website-2/" id="crossDomainLink">Go to Demo Website 2</a>
 
     <!-- Add to Cart Button -->
     <div>
